@@ -1,11 +1,28 @@
 # Alaa Alsous
 
 **Systemutvecklare .NET med AI-kompetens • Kreativ • Lösningsfokuserad**  
-Med en bakgrund inom juridik och pedagogik trivs jag bäst i sammanhang där samarbete, struktur och problemlösning står i centrum.  
 
-I kodvärlden uttrycker det sig i **ren och läsbar kod**, flexibla lösningar och ett fokus på användarens upplevelse.
+Jag studerar Systemutveckling .NET med AI-kompetens vid Edugrade och brinner för att skapa skalbara, användarvänliga och intelligenta system. I praktiken tar detta uttryck sig i form av flexibla, effektiva lösningar och ett starkt fokus på användarens upplevelse.
 
-## Skills & Technologies
+📌 Planerad examen: VT 2027  
+📌 Söker LIA-praktik: november 2026 – april 2027
+
+## Om mig
+Min bakgrund inom juridik och pedagogik har gett mig analytiskt tänkande och strukturerad problemlösningsförmåga. Jag kombinerar detta med teknisk precision i kod och projekt och kan:
+- skriva ren och läsbar kod
+- bryta ner komplexa problem i mindre delar
+- samarbeta effektivt i team
+- förklara tekniska lösningar på ett tydligt sätt
+
+Jag strävar alltid efter att utvecklas och ser varje projekt som en möjlighet att lära mig något nytt.
+
+## Mina mål
+- Bidra i verkliga utvecklingsprojekt under LIA-praktik (nov 2026 – apr 2027)
+- Bygga skalbara och användarvänliga system.
+- Integrera AI-funktionalitet i praktiska applikationer
+- Utvecklas som fullstack-utvecklare och problemlösare
+
+## Teknisk kompetens
 
 **Frontend:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -30,29 +47,10 @@ I kodvärlden uttrycker det sig i **ren och läsbar kod**, flexibla lösningar o
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 **Metod & process:**  
-![Scrum](https://img.shields.io/badge/Scrum-000000?style=flat&logo=scrum)
+![Agile](https://img.shields.io/badge/Agile-000000?style=flat&logo=agile)
 ![DevOps](https://img.shields.io/badge/DevOps-0078D4?style=flat&logo=azure-devops&logoColor=white)
 
-
-## Nuvarande fokus
-Studerar **Systemutvecklare .NET med AI-kompetens** på Edugrade i Hudiksvall. Examen planeras VT27.  
-
-## LIA & samarbete
-Jag söker LIA-praktik **november 2026 – april 2027**.  
-Jag bidrar gärna i team där jag får:
-- Samarbeta tätt med andra utvecklare för att skapa effektiva lösningar
-- Utveckla system och applikationer som används i verkliga projekt
-- Integrera teknik med tydlig kommunikation och samarbetsförmåga 
-
-## Samarbete & sidoprojekt
-Jag är alltid öppen för samarbete på projekt som utmanar mina färdigheter och breddar min erfarenhet.
-Med nyfikenhet och kreativitet utforskar jag nya tekniker och lösningar inom systemutveckling – från små verktyg och webbkomponenter till fullstack‑experiment.
-Jag tror på att praktiska experiment och delade idéer leder till lärande och bättre kod – ingen idé är för liten eller för ovanlig för att testas.
-
-Känner du för att bidra på ett av mina existerande projekt? Skicka gärna en pull request, jag kikar och ger feedback direkt.
-
-## 📫 Kontakt
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alaa%20Alsous-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaa-alsous-702186166)  
-[![GitHub](https://img.shields.io/badge/GitHub-AlaaAlsous-181717?style=flat&logo=github&logoColor=white)](https://github.com/AlaaAlsous)
+## Kontakt
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alaa%20Alsous-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaa-alsous-702186166)
 
 

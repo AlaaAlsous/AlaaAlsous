@@ -91,6 +91,6 @@ Med bakgrund inom juridik och pedagogik kombinerar jag analytiskt tänkande med 
   <img src="https://komarev.com/ghpvc/?username=AlaaAlsous&style=for-the-badge&color=orange" />
 </p>
 
-<p align="center">
-<img src ="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=true&textBg=false&animation=fadeIn&fontAlign=50"/>
-</p>
+
+<img src ="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=true&textBg=false&animation=fadeIn&fontAlign=50" width="100%"/>
+

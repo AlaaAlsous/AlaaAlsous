@@ -1,4 +1,4 @@
-<h1 align="center">Alaa Alsous</h1>
+<img src="github-header-banner.png"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=Systemutvecklare+.NET+med+AI-kompetens;Kreativ+%7C+L%C3%B6sningsfokuserad+%7C+Driven" />
@@ -13,11 +13,9 @@
 
 ##  Om mig
 
-Jag studerar Systemutveckling .NET med AI-kompetens vid Edugrade (examen VT 2027) och har ett starkt intresse för att utveckla skalbara, användarvänliga och intelligenta system.  
+Jag har ett starkt intresse för att utveckla skalbara, användarvänliga och intelligenta system samt att bidra i verkliga projekt och vidareutvecklas inom .NET, fullstack‑utveckling och AI‑integration.
 
 Med bakgrund inom juridik och pedagogik kombinerar jag analytiskt tänkande med strukturerad problemlösning och teknisk precision. Jag arbetar med ren och tydlig kod, bryter ner komplexa problem och samarbetar effektivt i team.  
-
-Jag söker LIA-praktik (nov 2026 – apr 2027) där jag kan bidra i verkliga projekt och vidareutvecklas inom .NET, fullstack-utveckling och AI-integration.
 
 ---
 

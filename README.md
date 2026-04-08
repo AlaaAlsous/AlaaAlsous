@@ -69,8 +69,6 @@ Med bakgrund inom juridik och pedagogik kombinerar jag analytiskt tänkande med 
 
 ---
 
-## GitHub-statistik
-
 <p align="center">
   <img src="https://ghstats.dev/api/card?username=AlaaAlsous&theme=gruvbox&show_ring=false&border_radius=25&hide=prs%2Cweek%2Ctrend%2Cavg%2Cgrade%2Cissues%2Cstreak%2Cactive_day" />
 </p>
@@ -80,8 +78,6 @@ Med bakgrund inom juridik och pedagogik kombinerar jag analytiskt tänkande med 
 </p>
 
 ---
-
-## Kontakt
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alaa-alsous-702186166" target="_blank">

@@ -88,7 +88,7 @@ Med bakgrund inom juridik och pedagogik kombinerar jag analytiskt tänkande med 
   <a href="https://www.linkedin.com/in/alaa-alsous-702186166">
     <img src="https://img.shields.io/badge/LinkedIn-Alaa%20Alsous-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:lawyeralaa@gmail.com">
+  <a href="mailto:lawyeralaa@gmail.com?subject=Kontakt%20fr%C3%A5n%20GitHub">
     <img src="https://img.shields.io/badge/Email-Kontakta%20mig-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>

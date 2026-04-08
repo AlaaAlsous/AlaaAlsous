@@ -65,4 +65,16 @@ Jag strävar alltid efter att utvecklas och ser varje projekt som en möjlighet 
 ## Kontakt
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alaa%20Alsous-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaa-alsous-702186166)
 
+## Status
 
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=AlaaAlsous&theme=gruvbox&show_ring=false&border_radius=25&hide=prs%2Cweek%2Ctrend%2Cavg%2Cgrade%2Cissues%2Cstreak%2Cactive_day" alt="GitHub Stats Card" />
+</p>
+
+<p align="center">
+ <img src="https://ghstats.dev/api/langs?username=AlaaAlsous&theme=gruvbox&border_radius=25&max_langs=12" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlaaAlsous&style=for-the-badge" alt="Profile Views">
+</p>

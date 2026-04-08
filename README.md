@@ -83,17 +83,21 @@ Med bakgrund inom juridik och pedagogik kombinerar jag analytiskt tänkande med 
 
 ## Kontakt
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alaa-alsous-702186166">
-    <img src="https://img.shields.io/badge/LinkedIn-Alaa%20Alsous-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/alaa-alsous-702186166" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Alaa%20Alsous-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:lawyeralaa@gmail.com?subject=Kontakt%20fr%C3%A5n%20GitHub">
-    <img src="https://img.shields.io/badge/Email-Kontakta%20mig-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:lawyeralaa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Kontakta%20mig-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+</div>
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlaaAlsous&style=for-the-badge&color=orange" />
+</p>
+
+<p align="center">
+<img src ="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=true&textBg=false&animation=fadeIn&fontAlign=50"/>
 </p>

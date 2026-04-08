@@ -11,16 +11,15 @@
 
 ---
 
-##  Om mig
+## Om mig
 
 Jag har ett starkt intresse för att utveckla skalbara, användarvänliga och intelligenta system samt att bidra i verkliga projekt och vidareutvecklas inom .NET, fullstack‑utveckling och AI‑integration.
 
-Med bakgrund inom juridik och pedagogik kombinerar jag analytiskt tänkande med strukturerad problemlösning och teknisk precision. Jag arbetar med ren och tydlig kod, bryter ner komplexa problem och samarbetar effektivt i team.  
+Med bakgrund inom juridik och pedagogik kombinerar jag analytiskt tänkande med strukturerad problemlösning och teknisk precision. Jag arbetar med ren och tydlig kod, bryter ner komplexa problem och samarbetar effektivt i team.
 
 ---
 
-
-##  Teknisk kompetens
+## Teknisk kompetens
 
 ### Frontend-utveckling
 
@@ -82,7 +81,7 @@ Med bakgrund inom juridik och pedagogik kombinerar jag analytiskt tänkande med 
 
 ---
 
-##  Kontakt
+## Kontakt
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alaa-alsous-702186166">

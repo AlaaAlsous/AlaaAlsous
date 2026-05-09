@@ -1,7 +1,7 @@
 <img src="github-header-banner.png"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=Systemutvecklare+.NET+med+AI-kompetens;Kreativ+%7C+L%C3%B6sningsfokuserad+%7C+Driven" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=Systemutvecklare+.NET+med+AI-kompetens;Probleml%C3%B6sare+%7C+L%C3%B6sningsfokuserad+%7C+Driven" />
 </p>
 
 <p align="center">

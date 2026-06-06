@@ -21,51 +21,51 @@ Jag har ett starkt intresse för att utveckla skalbara, användarvänliga och in
 
 ### Frontend-utveckling
 
-![HTML5](https://img.shields.io/badge/HTML5-1F2937?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1F2937?style=for-the-badge&logo=css3&logoColor=1572B6)
-![SCSS](https://img.shields.io/badge/SCSS-1F2937?style=for-the-badge&logo=sass&logoColor=CC6699)
-![Vue.js](https://img.shields.io/badge/Vue.js-1F2937?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-1F2937?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-1F2937?style=for-the-badge&logo=angular&logoColor=DD0031)
+![HTML5](https://img.shields.io/badge/HTML5-3d444d?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-3d444d?style=for-the-badge&logo=css3&logoColor=1572B6)
+![SCSS](https://img.shields.io/badge/SCSS-3d444d?style=for-the-badge&logo=sass&logoColor=CC6699)
+![Vue.js](https://img.shields.io/badge/Vue.js-3d444d?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-3d444d?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-3d444d?style=for-the-badge&logo=angular&logoColor=DD0031)
 
 ### Backend-utveckling
 
-![Node.js](https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-1F2937?style=for-the-badge&logo=express&logoColor=FFFFFF)
-![Docker](https://img.shields.io/badge/Docker-1F2937?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Azure](https://img.shields.io/badge/Azure-1F2937?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
+![Node.js](https://img.shields.io/badge/Node.js-3d444d?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-3d444d?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-3d444d?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Azure](https://img.shields.io/badge/Azure-3d444d?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
 
 ### Plattform / Framework
 
-![.NET](https://img.shields.io/badge/.NET-1F2937?style=for-the-badge&logo=dotnet&logoColor=512BD4)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-1F2937?style=for-the-badge&logo=dotnet&logoColor=512BD4)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-1F2937?style=for-the-badge&logo=dotnet&logoColor=68217A)
+![.NET](https://img.shields.io/badge/.NET-3d444d?style=for-the-badge&logo=dotnet&logoColor=61DAFB)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-3d444d?style=for-the-badge&logo=dotnet&logoColor=61DAFB)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-3d444d?style=for-the-badge&logo=dotnet&logoColor=61DAFB)
 
 ### Språk
 
-![C#](https://img.shields.io/badge/C%23-1F2937?style=for-the-badge&logo=csharp&logoColor=239120)
-![JavaScript](https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![C#](https://img.shields.io/badge/C%23-3d444d?style=for-the-badge&logo=csharp&logoColor=239120)
+![JavaScript](https://img.shields.io/badge/JavaScript-3d444d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3d444d?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
 ### Databaser
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-1F2937?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
-![SQLite](https://img.shields.io/badge/SQLite-1F2937?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![SQL Server](https://img.shields.io/badge/SQL_Server-3d444d?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
+![SQLite](https://img.shields.io/badge/SQLite-3d444d?style=for-the-badge&logo=sqlite&logoColor=61DAFB)
 
 ### Verktyg
 
-![Git](https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/VS_Code-1F2937?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-1F2937?style=for-the-badge&logo=visualstudio&logoColor=5C2D91)
-![SSMS](https://img.shields.io/badge/SSMS-1F2937?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
-![DB Browser](https://img.shields.io/badge/DB_Browser-1F2937?style=for-the-badge&logo=sqlite&logoColor=003B57)
-![Postman](https://img.shields.io/badge/Postman-1F2937?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Git](https://img.shields.io/badge/Git-3d444d?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-3d444d?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-3d444d?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-3d444d?style=for-the-badge&logo=visualstudio&logoColor=5C2D91)
+![SSMS](https://img.shields.io/badge/SSMS-3d444d?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
+![DB Browser](https://img.shields.io/badge/DB_Browser-3d444d?style=for-the-badge&logo=sqlite&logoColor=61DAFB)
+![Postman](https://img.shields.io/badge/Postman-3d444d?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 ### Metod & process
 
-![Agile](https://img.shields.io/badge/Agile-1F2937?style=for-the-badge&logo=agile&logoColor=FFFFFF)
-![DevOps](https://img.shields.io/badge/DevOps-1F2937?style=for-the-badge&logo=azure-devops&logoColor=0078D4)
+![Agile](https://img.shields.io/badge/Agile-3d444d?style=for-the-badge&logo=agile&logoColor=FFFFFF)
+![DevOps](https://img.shields.io/badge/DevOps-3d444d?style=for-the-badge&logo=azure-devops&logoColor=0078D4)
 
 ---
 

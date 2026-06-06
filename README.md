@@ -73,6 +73,10 @@ Jag har ett starkt intresse för att utveckla skalbara, användarvänliga och in
   <img src="https://github-readme-stats-pi-ten-44.vercel.app/api/top-langs?username=AlaaAlsous&theme=dark&border_radius=25&langs_count=10&layout=compact"/>
 </p>
 
+<p align="center"> 
+  <img src="https://streak-stats.demolab.com?user=AlaaAlsous&theme=dark&border_radius=25" alt="GitHub Streak" />
+</p>
+
 ---
 
 <div align="center">

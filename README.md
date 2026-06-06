@@ -72,11 +72,7 @@ Med bakgrund inom juridik och pedagogik kombinerar jag analytiskt tänkande med 
 ---
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=AlaaAlsous&theme=gruvbox&show_ring=false&border_radius=25&hide=prs%2Cweek%2Ctrend%2Cavg%2Cgrade%2Cissues%2Cstreak%2Cactive_day" />
-</p>
-
-<p align="center">
-  <img src="https://ghstats.dev/api/langs?username=AlaaAlsous&theme=gruvbox&border_radius=25&max_langs=12" />
+  <img src="https://github-readme-stats-pi-ten-44.vercel.app/api/top-langs?username=AlaaAlsous&theme=gruvbox&border_radius=25&langs_count=15" />
 </p>
 
 ---

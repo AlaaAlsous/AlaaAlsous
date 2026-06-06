@@ -79,6 +79,8 @@ Jag har ett starkt intresse för att utveckla skalbara, användarvänliga och in
   <a href="mailto:lawyeralaa@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</div>
+<div align="center">
   <a href="https://www.linkedin.com/in/alaa-alsous-702186166">
     <img src="https://img.shields.io/badge/LinkedIn-Alaa%20Alsous-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>

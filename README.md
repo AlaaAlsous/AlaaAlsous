@@ -70,11 +70,7 @@ Jag har ett starkt intresse för att utveckla skalbara, användarvänliga och in
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-pi-ten-44.vercel.app/api?username=AlaaAlsous&theme=gruvbox&count_private=true&include_all_commits=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-pi-ten-44.vercel.app/api/top-langs?username=AlaaAlsous&theme=gruvbox&border_radius=25&langs_count=15" />
+  <img src="https://github-readme-stats-pi-ten-44.vercel.app/api/top-langs?username=AlaaAlsous&theme=dark&border_radius=25&langs_count=10&layout=compact"/>
 </p>
 
 ---

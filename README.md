@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=Systemutvecklare+.NET+med+AI-kompetens;Strukturerad+%7C+L%C3%B6sningsfokuserad+%7C+Driven" />
 </p>
 
-<p align="center">
-  📌 Studerar <b>Systemutveckling .NET med AI-kompetens</b> (examen VT 2027)<br>
-  📌 Öppen för <b>LIA-praktik</b> november 2026 – april 2027
-</p>
-
 ---
 
 ## Om mig

@@ -1,20 +1,12 @@
 <img src="github-header-banner.png"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=Systemutvecklare+.NET+med+AI-kompetens;Strukturerad+%7C+L%C3%B6sningsfokuserad+%7C+Driven" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=.NET+Developer+with+AI+Skills;Structured+%7C+Solution-Oriented+%7C+Driven" />
 </p>
 
----
+## Technical Skills
 
-## Om mig
-
-Jag har ett starkt intresse för att utveckla skalbara, användarvänliga och intelligenta system samt att bidra i verkliga projekt och vidareutvecklas inom .NET, fullstack‑utveckling och AI‑integration.
-
----
-
-## Teknisk kompetens
-
-### Frontend-utveckling
+### Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-3d444d?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-3d444d?style=for-the-badge&logo=css3&logoColor=1572B6)
@@ -23,31 +15,31 @@ Jag har ett starkt intresse för att utveckla skalbara, användarvänliga och in
 ![React](https://img.shields.io/badge/React-3d444d?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-3d444d?style=for-the-badge&logo=angular&logoColor=DD0031)
 
-### Backend-utveckling
+### Backend Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-3d444d?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/Express.js-3d444d?style=for-the-badge&logo=express&logoColor=FFFFFF)
 ![Docker](https://img.shields.io/badge/Docker-3d444d?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Azure](https://img.shields.io/badge/Azure-3d444d?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
 
-### Plattform / Framework
+### Platform / Framework
 
 ![.NET](https://img.shields.io/badge/.NET-3d444d?style=for-the-badge&logo=dotnet&logoColor=61DAFB)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-3d444d?style=for-the-badge&logo=dotnet&logoColor=61DAFB)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-3d444d?style=for-the-badge&logo=dotnet&logoColor=61DAFB)
 
-### Språk
+### Languages
 
 ![C#](https://img.shields.io/badge/C%23-3d444d?style=for-the-badge&logo=csharp&logoColor=239120)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3d444d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3d444d?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
-### Databaser
+### Databases
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-3d444d?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
 ![SQLite](https://img.shields.io/badge/SQLite-3d444d?style=for-the-badge&logo=sqlite&logoColor=61DAFB)
 
-### Verktyg
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-3d444d?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-3d444d?style=for-the-badge&logo=github&logoColor=FFFFFF)
@@ -57,7 +49,7 @@ Jag har ett starkt intresse för att utveckla skalbara, användarvänliga och in
 ![DB Browser](https://img.shields.io/badge/DB_Browser-3d444d?style=for-the-badge&logo=sqlite&logoColor=61DAFB)
 ![Postman](https://img.shields.io/badge/Postman-3d444d?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
-### Metod & process
+### Methodology & Process
 
 ![Agile](https://img.shields.io/badge/Agile-3d444d?style=for-the-badge&logo=agile&logoColor=FFFFFF)
 ![DevOps](https://img.shields.io/badge/DevOps-3d444d?style=for-the-badge&logo=azure-devops&logoColor=0078D4)
@@ -91,6 +83,4 @@ Jag har ett starkt intresse för att utveckla skalbara, användarvänliga och in
   <img src="https://komarev.com/ghpvc/?username=AlaaAlsous&style=for-the-badge&color=orange" />
 </p>
 
-
 <img src ="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=true&textBg=false&animation=fadeIn&fontAlign=50" width="100%"/>
-

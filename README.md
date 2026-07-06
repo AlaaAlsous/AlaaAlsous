@@ -56,13 +56,14 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats-pi-ten-44.vercel.app/api/top-langs?username=AlaaAlsous&theme=dark&border_radius=25&langs_count=10&layout=compact"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=alaaalsous&theme=dark" />
+</div>
 
-<p align="center"> 
-  <img src="https://streak-stats.demolab.com?user=AlaaAlsous&theme=dark&border_radius=25" alt="GitHub Streak" />
-</p>
+
+<div align="center"> 
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alaaalsous&layout=compact&theme=dark" />
+</div>
 
 ---
 

@@ -56,11 +56,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=alaaalsous&theme=dark" />
-</div>
-
-
 <div align="center"> 
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alaaalsous&layout=compact&theme=dark" />
 </div>

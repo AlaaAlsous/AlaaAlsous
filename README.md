@@ -53,6 +53,7 @@
 
 ![Agile](https://img.shields.io/badge/Agile-3d444d?style=for-the-badge&logo=agile&logoColor=FFFFFF)
 ![DevOps](https://img.shields.io/badge/DevOps-3d444d?style=for-the-badge&logo=azure-devops&logoColor=0078D4)
+![Software Architecture & Design Patterns](https://img.shields.io/badge/Software%20Architecture%20%26%20Design%20Patterns-3d444d?style=for-the-badge)
 
 ---
 
